@@ -1,5 +1,12 @@
 # Lecture 18 - RESTful API (Part 3)
 
+ป้อนข้อมูลนักศึกษา
+รหัส นศ.:680610650
+
+ชื่อ-สกุล :กฤตภัทร์ การนา
+
+Vercel URL :
+
 ### Content
 
 - Current API
